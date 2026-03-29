@@ -9,7 +9,7 @@ Registration No. : 24BEC10145
 ### OSS NGMC Capstone Project | VITyarthi
 
 ## 📌 Project Overview
-This project is a structured audit of **Yuvraj Jain**, conducted as part of the Open Source Software (OSS) course. It explores the intersection of software philosophy, licensing ethics, and practical Linux systems administration.
+This project is a structured audit of **VLC Media Player**, conducted as part of the Open Source Software (OSS) course. It explores the intersection of software philosophy, licensing ethics, and practical Linux systems administration.
 
 [cite_start]The goal is to move beyond "what" the software does and investigate **why** it exists, **who** built it, and **how** it functions within the Linux ecosystem[cite: 13].
 
